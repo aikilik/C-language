@@ -1,0 +1,3 @@
+C:/Users/thall/Documents/GitHub/study/C/Fundamentos/Capitulo03/Exercicios Resolvidos/5/cmake-build-debug/CMakeFiles/5.dir
+C:/Users/thall/Documents/GitHub/study/C/Fundamentos/Capitulo03/Exercicios Resolvidos/5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/thall/Documents/GitHub/study/C/Fundamentos/Capitulo03/Exercicios Resolvidos/5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
