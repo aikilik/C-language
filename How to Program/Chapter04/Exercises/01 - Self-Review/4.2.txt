@@ -1,4 +1,0 @@
-a) false. Can be used
-b) false
-c) false
-d) true.
