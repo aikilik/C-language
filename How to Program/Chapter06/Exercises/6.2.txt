@@ -1,0 +1,5 @@
+a) False. It can only store a type of values.
+b) False. For the propose of it the subscript can only be integer grade than or igual to zero.
+c) False. If are elements that don't be initialized so it initialized by zero.
+d) true.
+e) False. Individual elements of an array are passed by value. If the entire array is passed to a function, any modifications will be reflected in the original array.

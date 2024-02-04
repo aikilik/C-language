@@ -1,0 +1,33 @@
+a)
+scanf("%d", &value);
+
+b) 
+printf("The produtct of %d and %d is %d\n", x, y, z);
+
+c)
+sumOfNumbers = firstNumber + secondNumber
+
+d)
+if (number => largest) {
+    largest = number;
+}
+
+e)
+/* Program to determine the largest of three integers */
+
+f)
+scanf("%d", &anInteger);
+
+g)
+printf("Remainder of %d divided by %d is %d\n", x, y, x % y);
+
+h)
+if (x == y) {
+    printf("%d is equal to %d\n", x, y);
+}
+
+i)
+printf("The sum is %d\n", x + y);
+
+j)
+printf("The value your entered is: %d\n", value);

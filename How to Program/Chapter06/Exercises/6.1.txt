@@ -1,0 +1,6 @@
+a) an array
+b) subscript or index
+c) constant
+d) sort
+e) search
+f) matriz

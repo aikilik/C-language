@@ -1,0 +1,10 @@
+1.
+
+int product = 2;
+
+while (product <= 1024) {
+    product = 2 * product;
+}
+
+2.
+infinite loop

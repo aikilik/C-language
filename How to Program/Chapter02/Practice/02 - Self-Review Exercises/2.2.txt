@@ -1,0 +1,11 @@
+a) false. printf precisa do escape sequence de nova linha para o cursor ir para um nova linha.
+b) false. Comentários não são processadores pelo compilador. Logo, não são exibidos.
+c) true.
+d) true
+e) true
+f) false. C é case sensitive. Logo, nomes igual escritos com letra maíscula e minúscula são diferentes.
+g) true
+h) false. O ampersand é somente utilizado como indicador de endereço de memória no scanf.
+i) true
+j) false. *, / % tem maior precedencia do que + e -.
+k) false. Pode ser feito com um printf com três escape senquence de nova linha.

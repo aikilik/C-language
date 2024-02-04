@@ -1,0 +1,15 @@
+a) ordem
+
+b) sequência
+
+c) acumulador
+
+d) sentinela
+
+e) flowchart
+
+f) flechas
+
+g) assingment, input, output
+
+h) condição

@@ -1,0 +1,15 @@
+a) scanf("%d", &x);
+
+b) scanf("%d", &y);
+
+c) int i = 1;
+
+d) int power = 1;
+
+e) power *= x;
+
+f) i++;
+
+g) while (i <= y)
+
+h) printf("Power = %d", power);

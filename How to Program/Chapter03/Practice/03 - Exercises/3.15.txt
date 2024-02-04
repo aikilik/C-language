@@ -1,0 +1,9 @@
+a) Falso. O maior desafio é desenvolver o algoritmo para resolver o problema.
+
+b) Verdadeiro.
+
+c) Falso. Indica o caminha que o programa faz para executar o próximo programa.
+
+d) False. Dentro de uma condição é colocado síbolos relacionais (>, <, >=, <=, ==, !=).
+
+e) Verdadeiro.

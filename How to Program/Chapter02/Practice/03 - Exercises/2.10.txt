@@ -1,0 +1,5 @@
+a) falso. Opera da direita para esquerda
+b) false. O único incorreto é _under_bar_, pois pode conflitar com alguns identificadores do compilador.
+c) false. a = 5; é que é o exemplo.
+d) true
+e) false. Somente h22 é válido.

@@ -1,0 +1,5 @@
+a) comments
+b) printf
+c) condition
+d) assignments ?
+e) scanf

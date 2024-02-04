@@ -1,0 +1,3 @@
+Function modifyArray expects to receive an array of integers in parameter band 
+the number of array elements in parameter size. The array is passed in by
+reference, so the function is able to modify the original array in the caller.

@@ -1,0 +1,21 @@
+a) 
+#define SIZE 100
+
+b)
+#define SIZE 10
+
+c) 
+int b[10] = {0};
+for (size_t i = 0; i <= 10; ++i) {
+    b[i] = i;
+}
+
+d)
+#include <stdio.h>
+
+e)
+int a[2][2] = {{1, 2}, {3, 4}};
+a[1][1] = 5;
+
+f)
+#define VALUE 120

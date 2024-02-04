@@ -1,0 +1,18 @@
+a)
+product *= 2;
+
+b)
+product = product * 2;
+
+c)
+if (count > 10) {
+    puts("Count is greater than 10.");
+}
+
+d) ??? quotient %= divisor;
+
+e)
+printf("%.2f\n", 3.14159);
+
+f) 
+printf("%.3f\n", 3.14159);

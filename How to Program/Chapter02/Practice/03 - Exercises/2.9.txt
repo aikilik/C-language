@@ -1,0 +1,11 @@
+a)
+puts("Enter two numbers");
+
+b)
+a = b * c;
+
+c)
+// This program calculate the payroll
+
+d)
+scanf("%d%d%d", &a, &b, &c);

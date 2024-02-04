@@ -1,0 +1,4 @@
+O fatal error impede o término da compilação do programa. Ao contrário do que ocorre
+com o nonfatal error.
+
+É preferível que ocorra o fatal error para que o programa não compile com erro. 

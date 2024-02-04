@@ -1,0 +1,24 @@
+a)
+inicializar a variável do tipo inteiro x com zero
+inicializar a variavel do tipo inteiro y com zero
+inicializar a variavel do tipo inteiro soma com zero
+
+entrar com um inteiro para x
+entrar com um inteiro para y
+
+efetuar a soma e atribuir o resultado a variavel soma
+
+b)
+inicializar a variavel do tipo inteiro x com zero
+inicializar a variavel do tipo inteiro y com zero
+
+entrar com um inteiro para x
+entrar com um inteiro para y
+
+se x > y, então x é maior
+
+se não, y é maior
+
+c)
+quando x for diferente de -1 
+    solicite um inteiro para o usuário

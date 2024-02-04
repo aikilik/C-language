@@ -1,0 +1,14 @@
+a)
+printf("The value is %d\n", number);
+
+b) 
+scanf("%d%d", &number1, &number2);
+
+c)
+if (c < 7) {
+    puts("C is less than 7");
+}
+
+d) if (c >= 7) {
+    puts("C is greater than or equal to 7");
+}

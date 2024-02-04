@@ -1,0 +1,25 @@
+a)
+int number = 0;
+
+b)
+printf("%s", "Enter a integer: ");
+
+c) 
+scanf("%d", &a);
+
+d)
+if (number != 7) {
+    puts("number is not equal to 7");
+}
+
+e) 
+puts("This is a C program.");
+
+f) 
+puts("This is a C\nprogram");
+
+g) 
+puts("This\nis\na\nC\nprogram.");
+
+h)
+puts("This\tis\ta\tC\tprogram.");

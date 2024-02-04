@@ -1,0 +1,10 @@
+a) main
+b) { }
+c) ;
+d) printf, puts
+e) new line
+f) scanf
+g) %d
+h) destructive
+i) nondestructive
+j) if

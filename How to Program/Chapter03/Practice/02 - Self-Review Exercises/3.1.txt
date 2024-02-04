@@ -1,0 +1,15 @@
+a) algorithm
+
+b) program control
+
+c) sequential, selection e iteration 
+
+d) if... else
+
+e) blocks
+
+f) while
+
+g) definite iteration
+
+h) sentinel

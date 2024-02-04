@@ -1,0 +1,15 @@
+a)
+printf("Enter two numbers.\n");
+
+b) int p = x + y + z;
+
+c)
+if (m > 2 * v) {
+    printf("M is greater.");
+}
+else {
+    printf("M is not greater.");
+}
+
+d)
+scanf("%d%d%d", &s, &r, &t);

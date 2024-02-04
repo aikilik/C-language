@@ -1,0 +1,3 @@
+a) Primeiro divisão e multiplicação e depois subtração e adição. O resultado é 15.
+b) "". O resultado é 3.
+c) "". O resultado é 324.

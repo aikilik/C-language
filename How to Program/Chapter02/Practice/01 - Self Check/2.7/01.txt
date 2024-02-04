@@ -1,0 +1,5 @@
+1.
+puts("Enter your age:");
+
+2.
+printf("%s", "Enter your age: ");

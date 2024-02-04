@@ -1,0 +1,24 @@
+a)
+#define SIZE 3
+
+int table[SIZE][SIZE];
+
+b)
+9
+
+c)
+for (size_t x = 0; x <= SIZE; ++x) {
+    for (size_t y = 0; y <= SIZE; ++y) {
+        table[x][y] = x + y;
+    }
+}
+
+d) 
+int table[SIZE][SIZE] = {{1, 8}, {2, 4, 6}, {5}};
+
+for (size_t i = 0; i <= SIZE; ++i) {
+    for (size_t j = 0; i <= SIZE; ++j) {
+        printf("%d", table[i][j]);
+    }
+    puts("");
+}
